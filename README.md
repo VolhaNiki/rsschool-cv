@@ -1,1 +1,1 @@
-https://VolhaNiki.github.io/rsschool-cv/cv
+https://VolhaNiki.github.io/rsschool-cv/cv.html
